@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git fetch origin main
+=======
+git merge origin master
+>>>>>>> 5cc6b3e5fce158ad88fc0f48edc157044e2c6a99
